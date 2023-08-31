@@ -1,0 +1,61 @@
+abc=streamlink "https://content-aeuf1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/g.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad.adunit=/abc-news/abcnews.com/web/video&ad.vast3=1&ad.vid=$program_id&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad.&pbs=c00d55016c0a4fa98c29f2565d337113"
+abc_australia_radio=mpv http://www.abc.net.au/res/streaming/audio/mp3/news_radio.pls
+africanews=streamlink https://www.youtube.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA/live $*
+aljazeera=streamlink https://www.youtube.com/watch?v=gCNeDWCI0vo $*
+amc=C:\Tools\Scripts\Batch\Streaming\amc.bat
+animals_channel=streamlink https://pluto.tv/en/live-tv/pluto-tv-animals-gb-1 $*
+arise_news=streamlink https://www.youtube.com/watch?v=p1uG49yAmBI $*
+bbc_ws=mpv https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
+bloomberg_europe=streamlink bloomberg.com/live/europe $*
+cbc=C:\Tools\Scripts\Batch\Streaming/cbc.bat $*
+cbla=mpv http://playerservices.streamtheworld.com/pls/CBLAFM_CBC.pls
+cbsnews=streamlink https://pluto.tv/en/live-tv/cbs-news-gb $*
+cgtn=streamlink https://live.cgtn.com/1000/prog_index.m3u8 $*
+cheddarnews=streamlink https://pluto.tv/en/live-tv/cheddar-gb $*
+cinemax=C:\Tools\Scripts\Batch\Streaming\cinemax.bat
+classicfm=mpv http://media-sov.musicradio.com/ClassicFMMP3
+cnbc=streamlink https://cdn-fr1-eu.lncnetworks.host/hls/cnbc_live/index.m3u8 $*
+cnn=streamlink https://turnerlive.akamaized.net/hls/live/586497/cnngo/cnni/master.m3u8 $*
+cspan1=mpv https://26233.live.streamtheworld.com/CSPAN1.mp3
+cspan2=mpv https://26233.live.streamtheworld.com/CSPAN2.mp3
+cspan3=mpv https://26233.live.streamtheworld.com/CSPAN3.mp3
+cspan=mpv https://26233.live.streamtheworld.com/CSPANRADIO.mp3
+cspan_radio=start msedge /new-window "https://www.c-span.org/radio/"
+discovery=C:\Tools\Scripts\Batch\Streaming\discovery.bat
+dw=streamlink https://www.youtube.com/watch?v=pqabxBKzZ6M $*
+euronews=streamlink https://www.youtube.com/watch?v=pykpO5kQJ98 $*
+fox_news=streamlink https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8 $*
+france24=streamlink https://www.youtube.com/watch?v=h3MuIUNCCzI $*
+freeform=C:\Tools\Scripts\Batch\Streaming\freeform.bat
+gbnews=streamlink https://www.youtube.com/watch?v=8WX6YL9JnLw $*
+getfactual=streamlink https://pluto.tv/en/live-tv/get-factual-gb $*
+hboeast=C:\Tools\Scripts\Batch\Streaming\hboeast.bat
+history=C:\Tools\Scripts\Batch\Streaming\history.bat
+india_today=streamlink https://feeds.intoday.in/hltapps/api/master.m3u8 $*
+lbc=mpv http://media-ice.musicradio.com/LBCLondonMP3Low
+moviemax=C:\Tools\Scripts\Batch\Streaming\moviemax.bat $*
+natgeo=C:\Tools\Scripts\Batch\Streaming\natgeo.bat
+nbc=streamlink https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/114bb72d-ef6d-4533-bbc5-a9eba4d88731/3.m3u8 $*
+ndtv=C:\Tools\Scripts\Batch\Streaming\ndtv.bat
+newsmax=streamlink https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8 $*
+nhk=streamlink https://cdn.nhkworld.jp/www11/nhkworld-tv/global/2003458/live.m3u8 $*
+pbs_america=streamlink https://pbs-samsunguk.amagi.tv/playlist720-p.m3u8 $*
+premier=mpv https://pcr.streamguys1.com/pcrnational-96k.aac
+radio4=mpv https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_fourfm.m3u8
+sciencechannel=C:\Tools\Scripts\Batch\Streaming\sciencechannel.bat
+sky_news=streamlink https://www.youtube.com/watch?v=9Auq9mYxFEE $*
+spacechannel=streamlink https://pluto.tv/en/live-tv/pluto-tv-space-gb $*
+stv=streamlink https://player.stv.tv/live/stv $*
+tbs=C:\Tools\Scripts\Batch\Streaming\tbs.bat
+tcm=C:\Tools\Scripts\Batch\Streaming\tcm.bat
+times_radio=mpv http://www.radiofeeds.net/playlists/wgtimesradio.m3u
+tnt=C:\Tools\Scripts\Batch\Streaming\tnt.bat
+trtworld=streamlink https://www.youtube.com/watch?v=5VF4aor94gw $*
+tv5monde=streamlink https://europe.tv5monde.com/en/live?timezone=Europe/London $*
+twitch=streamlink twitch.tv/$*
+usanetwork=C:\Tools\Scripts\Batch\Streaming\usanetwork.bat
+voa=mpv http://voa-28.akacast.akamaistream.net/7/54/322040/v1/ibb.akacast.akamaistream.net/voa-28
+voyager_documentaries=streamlink https://pluto.tv/en/live-tv/voyager-documentaries-gb $*
+wnpr=mpv https://playerservices.streamtheworld.com/api/livestream-redirect/WNPRFM.mp3
+wnyc=mpv https://fm939.wnyc.org/wnycfm-web
+worldsgreatest=streamlink https://pluto.tv/en/live-tv/worlds-greatest-gb $*
